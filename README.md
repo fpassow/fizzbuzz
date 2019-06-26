@@ -1,2 +1,4 @@
 # fizzbuzz
-FizzBuzz implementations. All JavaScript so far. And all can be pasted in a browser console.
+FizzBuzz implementations. 
+
+All JavaScript so far. All can be pasted into a modern browser console to run.
